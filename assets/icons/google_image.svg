@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="75" height="50" viewBox="0 0 75 50">
+  <g id="ic_google" transform="translate(-20 -600)">
+    <g id="Rectangle_2441" data-name="Rectangle 2441" transform="translate(20 600)" fill="#fff" stroke="#84bce8" stroke-width="2">
+      <rect width="75" height="50" rx="25" stroke="none"/>
+      <rect x="1" y="1" width="73" height="48" rx="24" fill="none"/>
+    </g>
+    <g id="Google__G__Logo" transform="translate(72.754 573.761)">
+      <path id="Path_25130" data-name="Path 25130" d="M-2.973,51.566a14.255,14.255,0,0,0-.195-2.327H-14.754v4.624H-8.12a5.712,5.712,0,0,1-2.461,3.671V60.61h3.958A12.03,12.03,0,0,0-2.973,51.566Z" transform="translate(-0.781)" fill="#4285f4"/>
+      <path id="Path_25131" data-name="Path 25131" d="M-14.921,63.239a11.151,11.151,0,0,0,7.806-2.91l-3.8-3a7.045,7.045,0,0,1-4.006,1.16,7.068,7.068,0,0,1-6.625-4.96h-3.918v3.09A11.778,11.778,0,0,0-14.921,63.239Z" transform="translate(0)" fill="#34a853"/>
+      <path id="Path_25132" data-name="Path 25132" d="M-21.484,53.529a6.963,6.963,0,0,1-.38-2.29,7.234,7.234,0,0,1,.38-2.29v-3.09h-3.98a11.861,11.861,0,0,0-1.29,5.38,11.861,11.861,0,0,0,1.29,5.38Z" fill="#fbbc05"/>
+      <path id="Path_25133" data-name="Path 25133" d="M-15.034,43.989a6.251,6.251,0,0,1,4.48,1.8l3.331-3.42a11.016,11.016,0,0,0-7.81-3.13,11.643,11.643,0,0,0-10.43,6.62l3.876,3.09A7,7,0,0,1-15.034,43.989Z" fill="#ea4335"/>
+    </g>
+  </g>
+</svg>
